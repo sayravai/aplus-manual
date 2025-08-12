@@ -1,6 +1,7 @@
 [submodule "a-plus-rst-tools"]
 	path = a-plus-rst-tools
-	url = https://github.com/apluslms/a-plus-rst-tools.git
+	url = git@github.com:sayravai/a-plus-rst-tools.git
+	branch = bs5
 [submodule "enrollment"]
 	path = enrollment
 	url = https://github.com/apluslms/aplus-enrollment-questionnaire.git
